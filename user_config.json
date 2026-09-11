@@ -1,0 +1,24 @@
+{
+  "site_name": "Fuego Tacos",
+  "tagline": "Authentic Street Tacos. Bold Flavors. Good Vibes.",
+  "owner_name": "Fuego Tacos",
+  "email": "hello@fuegotacos.com",
+  "phone": "(323) 555-0187",
+  "address": "742 Sunset Blvd, Los Angeles, CA 90028",
+  "hours": "Mon-Thu 11am-10pm | Fri-Sat 11am-12am | Sun 11am-9pm",
+  "colors": {
+    "primary": "#1a1a1a",
+    "secondary": "#fef3e2",
+    "accent": "#e85d26"
+  },
+  "social": {
+    "instagram": "https://instagram.com/fuegotacos",
+    "facebook": "https://facebook.com/fuegotacos",
+    "twitter": "",
+    "linkedin": "",
+    "tiktok": "https://tiktok.com/@fuegotacos"
+  },
+  "analytics_id": "",
+  "formspree_id": "",
+  "custom_domain": ""
+}
