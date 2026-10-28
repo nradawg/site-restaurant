@@ -1,24 +1,61 @@
 {
   "site_name": "Fuego Tacos",
-  "tagline": "Authentic Street Tacos. Bold Flavors. Good Vibes.",
-  "owner_name": "Fuego Tacos",
-  "email": "hello@fuegotacos.com",
+  "tagline": "Authentic Street Tacos. Bold Flavors.",
+  "description": "Fresh tortillas and house made salsas, every day, on Sunset Blvd.",
+  "location_label": "Los Angeles, CA",
+  "button_text": "See the Menu",
+  "email": "hello@example.com",
   "phone": "(323) 555-0187",
   "address": "742 Sunset Blvd, Los Angeles, CA 90028",
-  "hours": "Mon-Thu 11am-10pm | Fri-Sat 11am-12am | Sun 11am-9pm",
+  "hours": [
+    "Mon to Thu: 11am to 10pm",
+    "Fri and Sat: 11am to 12am",
+    "Sun: 11am to 9pm"
+  ],
   "colors": {
     "primary": "#1a1a1a",
     "secondary": "#fef3e2",
     "accent": "#e85d26"
   },
   "social": {
-    "instagram": "https://instagram.com/fuegotacos",
-    "facebook": "https://facebook.com/fuegotacos",
-    "twitter": "",
-    "linkedin": "",
-    "tiktok": "https://tiktok.com/@fuegotacos"
+    "instagram": "",
+    "facebook": "",
+    "tiktok": ""
   },
-  "analytics_id": "",
-  "formspree_id": "",
-  "custom_domain": ""
+  "hero_image": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=1600&q=80",
+  "items_title": "Fan Favorites",
+  "items": [
+    {
+      "name": "Carne Asada",
+      "price": "$4.50",
+      "description": "Grilled steak, cilantro, onion, house salsa verde on a double corn tortilla.",
+      "image": "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?w=600&q=80"
+    },
+    {
+      "name": "Al Pastor",
+      "price": "$4.50",
+      "description": "Spit roasted pork, grilled pineapple, cilantro, chipotle crema.",
+      "image": "https://images.unsplash.com/photo-1599974579688-8dbdd335c77f?w=600&q=80"
+    },
+    {
+      "name": "Birria",
+      "price": "$5.50",
+      "description": "Slow braised beef, melted cheese, crispy tortilla. Served with consomme.",
+      "image": "https://images.unsplash.com/photo-1624300629298-e9de39c13be5?w=600&q=80"
+    },
+    {
+      "name": "Camarones",
+      "price": "$5.50",
+      "description": "Grilled shrimp, cabbage slaw, avocado crema, pickled onion.",
+      "image": "https://images.unsplash.com/photo-1613514785940-daed07799d9b?w=600&q=80"
+    }
+  ],
+  "items_note": "Plus burritos, quesadillas, bowls, and aguas frescas.",
+  "about_title": "Our Story",
+  "about": [
+    "Say how you started in two or three plain sentences.",
+    "Then say the one thing you do that the place down the street does not."
+  ],
+  "about_image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&q=80",
+  "reviews": []
 }
